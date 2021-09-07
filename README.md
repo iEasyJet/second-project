@@ -10,4 +10,4 @@
 
 #### Ссылка на проект
 
-https://ieasyjet.github.io/russian-travel-2/
+https://ieasyjet.github.io/second-project/
