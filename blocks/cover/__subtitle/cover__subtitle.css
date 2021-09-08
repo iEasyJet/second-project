@@ -9,10 +9,8 @@
   text-align: center;
   color: #FFFFFF;
   text-decoration: none;
+  z-index: 1;
 }
-
-
-
 
 @media (max-width: 600px) {
   .cover__subtitle {
