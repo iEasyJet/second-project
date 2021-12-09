@@ -8,6 +8,7 @@
 3. Отработы знания по адаптивной верстке с помощью @media;
 4. Так же в проекте реализована резиновость верстки при изменении ширины экрана;
 
-#### Ссылка на проект
+[Ссылка на макет Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0)
+[Ссылка на проект](https://ieasyjet.github.io/second-project/)
 
-https://ieasyjet.github.io/second-project/
+
